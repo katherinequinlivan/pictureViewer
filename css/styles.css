@@ -1,0 +1,18 @@
+/* css file */
+
+body {
+	background-image: url("../images/background.jpg");
+	text-align: center;
+
+	font-family: 'Cabin Sketch', cursive;
+	color: #9370DB ;
+}
+
+h1 {
+	font-size: 50pt;
+	margin-bottom: 0;
+}
+
+img {
+	width: 50%;
+}
